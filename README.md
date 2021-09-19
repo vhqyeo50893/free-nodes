@@ -15,3 +15,9 @@ https://api.dler.io/sub?target=clash&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fv
 ```
 
 [刷新订阅](https://purge.jsdelivr.net/gh/vhqyeo50893/free-nodes/v2)
+
+[TG群组](https://t.me/misakasao0)
+
+---
+
+感谢 https://github.com/Leon406/Sub 为本项目提供节点源
