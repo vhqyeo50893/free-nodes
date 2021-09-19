@@ -2,8 +2,8 @@
 
 ---
 
-订阅地址
+V2ray 通用订阅地址
 
 ```
-即将上线，敬请期待
+https://cdn.jsdelivr.net/gh/vhqyeo50893/free-nodes@master/v2
 ```
